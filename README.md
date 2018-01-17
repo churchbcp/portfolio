@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm Brandy Churchill, an IT Employee Program Manager and Agile Coach.
+I'm Brandy Churchill, an IT Employee Program Manager, Agile Coach, Trainer and Volunteer.
 
 Find me on [LinkedIn](http://linkedin.com/in/brandychurchill), and see examples of my work [here in GitHub](https://github.com/churchbcp/portfolio/tree/master/work_examples):
 * [Self Prioritization Activity](https://github.com/churchbcp/portfolio/blob/master/work_examples/SelfPrioritizationActivity_Dec2017_PrimeAcademy.pdf) with an audience of 40+ in December of 2017, inspired by my manager
