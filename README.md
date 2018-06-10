@@ -2,7 +2,7 @@
 
 I'm Brandy Churchill, a Trainer, Agile Coach, IT Employee Program Manager, and Volunteer.
 
-Find me on [LinkedIn](http://linkedin.com/in/brandychurchill), and see examples of my work [here in GitHub](https://github.com/churchbcp/portfolio/tree/master/work_examples):
+Find me on [LinkedIn](http://linkedin.com/in/brandychurchill), and see examples of my work [here in GitHub](https://github.com/churchbcp/portfolio/tree/master/work_examples) to get a feel for my experience and style!
 * Engage employees by [kicking off a small-group networking and accountability program](https://github.com/churchbcp/portfolio/blob/master/work_examples/PeerMentoringCirclesKickoff_Apr2018.pdf) in April 2018
 * Create an [informative, engaging poster series](https://github.com/churchbcp/portfolio/blob/master/work_examples/IntlWomensDay2018_CelebrationPosters.pdf) for International Women's Day celebrations in my department of 800+ in March 2018
 * [Draft Alumni Connections Plan](https://github.com/churchbcp/portfolio/blob/master/work_examples/DraftAlumConnectionsPlan_TwinCitiesBootcamp.pdf) for a Twin Cities developer bootcamp in February 2018
