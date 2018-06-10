@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm Brandy Churchill, an IT Employee Program Manager, Agile Coach, Trainer and Volunteer.
+I'm Brandy Churchill, a Trainer, Agile Coach, IT Employee Program Manager, and Volunteer.
 
 Find me on [LinkedIn](http://linkedin.com/in/brandychurchill), and see examples of my work [here in GitHub](https://github.com/churchbcp/portfolio/tree/master/work_examples):
 * Engage employees by [kicking off a small-group networking and accountability program](https://github.com/churchbcp/portfolio/blob/master/work_examples/PeerMentoringCirclesKickoff_Apr2018.pdf) in April 2018
